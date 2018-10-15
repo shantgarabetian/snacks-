@@ -1,0 +1,11 @@
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\bin\Debug\CH3EX3homework.exe
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\bin\Debug\CH3EX3homework.pdb
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\bin\Debug\CH3EX3homework.xml
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.vbprojResolveAssemblyReference.cache
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.Resources.resources
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.vbproj.GenerateResource.cache
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.vbproj.CoreCompileInputs.cache
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.exe
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.xml
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.pdb
+C:\Users\shant\Desktop\VisualStudio808\CH3EX2\CH3EX3homework\CH3EX3homework\obj\Debug\CH3EX3homework.SNACKS.resources
